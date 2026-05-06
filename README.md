@@ -6,4 +6,5 @@
 ## 🔧 Tech Stack
 - React, Node.js, Flutter
 - Supabase, Firebase
+https://img.shields.io/badge/dynamic/json
 
